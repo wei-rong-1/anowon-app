@@ -1,4 +1,4 @@
-# Week 4 - Anowon App
+# Anowon App
 
 please run this dapp on your broswer to check this project.
 
